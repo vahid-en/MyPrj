@@ -1,2 +1,2 @@
 # MyPrj
-A TstProject to learn more.
+A TstProject to learn Git, Github and C++.
