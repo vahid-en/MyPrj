@@ -5,12 +5,13 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-	cout << "Hello" << endl;
+	cout << "C++ Test Class" << endl;
 	{
 		MyClass mc(10, "Vahid");
-		cout << mc.getName() << endl;
+		cout << "Hello " << mc.getName() << endl;
 		mc.printInfo();
+		cout << "Goodbye!" << endl;
 	}	
-	cout << "Goodbye" << endl;
+	cout << "Test Class End." << endl;
 	return 0;
 }
